@@ -1,0 +1,51 @@
+SKU,Item_Name,Category,Purchase_Cost,Selling_Price,Stock_Quantity,Reorder_Level
+SKU-GR-001,Gears & Transmissio Part 1,Gears & Transmission,2185.8,2950.83,97,24
+SKU-GR-002,Gears & Transmissio Part 2,Gears & Transmission,3508.38,4736.31,65,14
+SKU-GR-003,Gears & Transmissio Part 3,Gears & Transmission,1377.27,1859.31,87,16
+SKU-GR-004,Gears & Transmissio Part 4,Gears & Transmission,1014.91,1370.13,92,14
+SKU-GR-005,Gears & Transmissio Part 5,Gears & Transmission,3024.13,4082.58,28,12
+SKU-GR-006,Gears & Transmissio Part 6,Gears & Transmission,876.16,1182.82,6,17
+SKU-GR-007,Gears & Transmissio Part 7,Gears & Transmission,3880.04,5238.05,42,11
+SKU-GR-008,Gears & Transmissio Part 8,Gears & Transmission,1472.75,1988.21,25,10
+SKU-GR-009,Gears & Transmissio Part 9,Gears & Transmission,1925.7,2599.7,26,22
+SKU-GR-010,Gears & Transmissio Part 10,Gears & Transmission,2398.2,3237.57,53,20
+SKU-EB-011,Engine & Bearing Part 1,Engine & Bearings,1646.08,2304.51,46,21
+SKU-EB-012,Engine & Bearing Part 2,Engine & Bearings,2442.26,3419.16,19,23
+SKU-EB-013,Engine & Bearing Part 3,Engine & Bearings,499.33,699.06,66,12
+SKU-EB-014,Engine & Bearing Part 4,Engine & Bearings,1141.42,1597.99,68,18
+SKU-EB-015,Engine & Bearing Part 5,Engine & Bearings,402.19,563.07,55,16
+SKU-EB-016,Engine & Bearing Part 6,Engine & Bearings,675.15,945.21,43,11
+SKU-EB-017,Engine & Bearing Part 7,Engine & Bearings,2387.55,3342.57,64,23
+SKU-EB-018,Engine & Bearing Part 8,Engine & Bearings,2078.47,2909.86,13,19
+SKU-EB-019,Engine & Bearing Part 9,Engine & Bearings,514.88,720.83,88,21
+SKU-EB-020,Engine & Bearing Part 10,Engine & Bearings,1268.34,1775.68,75,21
+SKU-BS-021,Brake System Part 1,Brake Systems,1093.25,1421.23,51,12
+SKU-BS-022,Brake System Part 2,Brake Systems,1673.05,2174.97,40,11
+SKU-BS-023,Brake System Part 3,Brake Systems,1327.53,1725.79,6,23
+SKU-BS-024,Brake System Part 4,Brake Systems,1128.1,1466.53,110,13
+SKU-BS-025,Brake System Part 5,Brake Systems,658.8,856.44,67,11
+SKU-BS-026,Brake System Part 6,Brake Systems,1485.19,1930.75,38,19
+SKU-BS-027,Brake System Part 7,Brake Systems,1652.76,2148.59,18,24
+SKU-BS-028,Brake System Part 8,Brake Systems,1690.62,2197.81,76,23
+SKU-BS-029,Brake System Part 9,Brake Systems,674.38,876.69,66,17
+SKU-BS-030,Brake System Part 10,Brake Systems,1582.35,2057.05,113,11
+SKU-EE-031,Electrical & Equipmen Part 1,Electrical & Equipment,716.68,1039.19,28,19
+SKU-EE-032,Electrical & Equipmen Part 2,Electrical & Equipment,1163.52,1687.1,64,21
+SKU-EE-033,Electrical & Equipmen Part 3,Electrical & Equipment,439.8,637.71,33,24
+SKU-EE-034,Electrical & Equipmen Part 4,Electrical & Equipment,323.53,469.12,93,16
+SKU-EE-035,Electrical & Equipmen Part 5,Electrical & Equipment,594.57,862.13,5,21
+SKU-EE-036,Electrical & Equipmen Part 6,Electrical & Equipment,458.16,664.33,67,20
+SKU-EE-037,Electrical & Equipmen Part 7,Electrical & Equipment,358.78,520.23,12,12
+SKU-EE-038,Electrical & Equipmen Part 8,Electrical & Equipment,979.68,1420.54,9,19
+SKU-EE-039,Electrical & Equipmen Part 9,Electrical & Equipment,526.39,763.27,45,21
+SKU-EE-040,Electrical & Equipmen Part 10,Electrical & Equipment,1056.26,1531.58,76,21
+SKU-LF-041,Lubricants & Fluid Part 1,Lubricants & Fluids,398.54,498.18,52,16
+SKU-LF-042,Lubricants & Fluid Part 2,Lubricants & Fluids,386.59,483.24,92,14
+SKU-LF-043,Lubricants & Fluid Part 3,Lubricants & Fluids,637.76,797.2,108,15
+SKU-LF-044,Lubricants & Fluid Part 4,Lubricants & Fluids,732.33,915.41,69,12
+SKU-LF-045,Lubricants & Fluid Part 5,Lubricants & Fluids,271.76,339.7,82,12
+SKU-LF-046,Lubricants & Fluid Part 6,Lubricants & Fluids,656.47,820.59,94,16
+SKU-LF-047,Lubricants & Fluid Part 7,Lubricants & Fluids,662.58,828.23,107,20
+SKU-LF-048,Lubricants & Fluid Part 8,Lubricants & Fluids,513.64,642.05,19,19
+SKU-LF-049,Lubricants & Fluid Part 9,Lubricants & Fluids,215.25,269.06,81,12
+SKU-LF-050,Lubricants & Fluid Part 10,Lubricants & Fluids,218.86,273.58,107,10
